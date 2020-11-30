@@ -12,7 +12,7 @@ This project was created in order to continue practicing my JavaScript skills ou
 - How to debug complicated edge cases
 
 # Screencap of project
-
+![Screenshot of Calculator](https://raw.githubusercontent.com/mdurst365/vanilla_js_calculator/main/assets/Capture.JPG)
 
 # Link to tutorial
 https://www.youtube.com/watch?v=j59qQ7YWLxw&ab_channel=WebDevSimplified
